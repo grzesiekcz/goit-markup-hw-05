@@ -123,8 +123,10 @@ img {
 .address-phone-header:hover,
 .address-phone-header:focus {
   color: var(--main-color);
-  
+  fill: var(--main-color);
 }
+
+
 .navigation-list-item {
   position: relative;
 }
