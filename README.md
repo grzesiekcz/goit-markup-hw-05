@@ -1,5 +1,3 @@
-# goit-markup-hw-
+Praca domowa nr 6
 
-https://grzesiekcz.github.io/goit-markup-hw-05/
-
-Praca domowa - zad. 5
+https://grzesiekcz.github.io/goit-markup-hw-06/
